@@ -4,15 +4,11 @@ h1 {
   font-family: 'Times New Roman', Times, serif;
 }
 
-.img-with-text {
-  text-align: center;
-  width: 30%;
-  height: 30%;
+.column {
+  width: 300px;
   float: left;
 }
 
-.img-with-text {
-  display: block;
-  margin: auto;
+.img {
+  width: 10px;
 }
-
