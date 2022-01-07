@@ -13,7 +13,15 @@ h2 {
   float: left;
 }
 
-.img {
-  width: 30px;
-  float: left;
-}
+ .highlight {
+   color: red;
+ }
+
+ .important {
+   color: teal;
+   font-weight: bold;
+ }
+
+ .emphasis {
+   font-weight: bolder;
+ }
