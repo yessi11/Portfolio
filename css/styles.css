@@ -8,20 +8,15 @@ h2 {
   text-align: center;
 }
 
-.column {
-  width: 300px;
-  float: left;
-}
-
- .highlight {
+.highlight {
    color: red;
  }
 
- .important {
+.important {
    color: teal;
    font-weight: bold;
  }
 
- .emphasis {
+.emphasis {
    font-weight: bolder;
  }
