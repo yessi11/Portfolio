@@ -1,6 +1,6 @@
 # Portfolio For Yesenia Reyes
 
-#### By _Yesenia Reyes_yeseniareyes5@gmail.com
+#### By Yesenia Reyes yeseniareyes5@gmail.com
 
 #### This is a simple webpage for potential employers
 
