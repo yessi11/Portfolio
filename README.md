@@ -15,10 +15,18 @@
 
 This webpage includes a breif description on details about me as well as information on previous jobs, interests outside of work, and projects that I've created over the past week on Github.
 
+## Github Page link
+*https://github.com/yessi11/Portfolio
+
 ## Setup/Installation Requirements
 
 *Open webpage from Github pages
 *This webpage only needs a simple HTML compatible web browser
+  To install:
+*Clone respository to your desktop
+*Navigate to the top of your directory 
+*Open "index.html" to view file in your browser
+
 
 
 ## Known Bugs
