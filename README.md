@@ -20,12 +20,12 @@ This webpage includes a breif description on details about me as well as informa
 
 ## Setup/Installation Requirements
 
-*Open webpage from Github pages
-*This webpage only needs a simple HTML compatible web browser
-  To install:
-*Clone respository to your desktop
-*Navigate to the top of your directory 
-*Open "index.html" to view file in your browser
+* Open webpage from Github pages
+* This webpage only needs a simple HTML compatible web browser
+ ### To install:
+* Clone respository to your desktop
+* Navigate to the top of your directory 
+* Open "index.html" to view file in your browser
 
 
 
